@@ -1,4 +1,25 @@
 /*-- this is the code you insert within the main body --*/
+<div class="folio_block">
+<div class="main_view">
+<div class="window">
+<div class="image_reel"><a
+href="http://it.ryanjb.com/contact/"><img
+src="http://it.ryanjb.com/images/mainitc2.png"
+alt="Contact I.T. Consultants"></a> <a
+href="http://www.ryanjb.com"><img
+src="http://it.ryanjb.com/images/mainitc1.png"
+alt="RyanJB.com Games and Entertainment"></a><a
+href="http://intellectus.ryanjb.com"><img
+src="http://it.ryanjb.com/images/mainitc_int.png"
+alt="Intellectualize Your Mind"></a> </div>
+</div>
+<div class="paging"> <a
+href="http://it.ryanjb.com/contact/" rel="1">1</a>
+<a href="http://www.ryanjb.com" rel="2">2</a>
+<a href="http://intellectus.ryanjb.com" rel="3">3</a>
+</div>
+</div>
+</div>
 <script type="text/javascript">    //setup image slider
     //Show the paging and activate its first link
     $(".paging").show();
