@@ -1,3 +1,9 @@
+/*-- the following code is placed within the header of the HTML file
+everything is gnu gpl, please use at will and reference back.
+Ryan Bridglal, 2011 
+live demo can be viewed at :
+http://demo.ryanjb.com/itc/ --*/
+
 /*-- this is the code you insert within the main body --*/
 <div class="folio_block">
 <div class="main_view">
