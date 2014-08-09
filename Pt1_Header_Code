@@ -1,8 +1,8 @@
 /*-- the following code is placed within the header of the HTML file
-everything is gnu gpl, please use at will and reference back.
-Ryan Bridglal, 2011 
-live demo can be viewed at :
-http://demo.ryanjb.com/itc/ --*/
+* everything is gnu gpl, please use at will and reference back.
+* Ryan Bridglal, 2011 
+* live demo can be viewed at :
+* http://demo.ryanjb.com/itc/ --*/
 
 <style type="text/css">
 *{outline: none;}
